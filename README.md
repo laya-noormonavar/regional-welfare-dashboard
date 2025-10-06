@@ -1,5 +1,7 @@
 # Regional Welfare Dashboard (Middle East)
+
 <img width="1322" height="746" alt="عکس2" src="https://github.com/user-attachments/assets/89c84186-fd30-41a4-9541-ea63bbceba2c" />
+
 ---
 
 <h2 align="center">⭐️ Don't forget to leave a star if you liked this project! ⭐️</h2>
